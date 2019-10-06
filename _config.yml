@@ -9,15 +9,14 @@ email: er.yogeshchandra@gmail.com
 website: https://gyogeshchandra.github.io
 
 # Social links
-twitter_username: facespics
+#twitter_username: yogesh
 github_username:  gyogeshchandra
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
+# facebook_username: gyogeshchandra
+# flickr_username: yogesh
 instagram_username: yogesh.live_life
 linkedin_username: gyogeshchandra
-# pinterest_username: jekyll
-# googleplus_username: +jekyll
+# pinterest_username: yogesh
+# googleplus_username: +yogesh
 
 # About Section
 # about_title: About Me
@@ -41,7 +40,7 @@ more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
    - Rock climbing
    - Gaming
-   - Knitting
+   - Playing Piano
    - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 # Footer
