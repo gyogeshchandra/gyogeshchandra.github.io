@@ -23,7 +23,7 @@ instagram_username: yogesh.live_life
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Yogesh Chandra and I work as software engineer II in Akamai Technologies. I have a great experience in making software and web apps.
-  I am most skilled in: <mark>Python</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Python</mark> and <mark>Perl</mark>
 
 # Experience Section
 # experience_title: Experience
