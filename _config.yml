@@ -13,8 +13,8 @@ website: https://gyogeshchandra.github.io
 github_username:  gyogeshchandra
 # facebook_username: gyogeshchandra
 # flickr_username: yogesh
-instagram_username: yogesh.live_life
 linkedin_username: gyogeshchandra
+instagram_username: yogesh.live_life
 # pinterest_username: yogesh
 # googleplus_username: +yogesh
 
@@ -24,9 +24,6 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Yogesh Chandra and I work as software engineer II in Akamai Technologies. I have a great experience in making software and web apps.
   I am most skilled in: <mark>Python</mark> and <mark>Eating Pizza</mark>
-
-# Projects Section
-# projects_title: Projects
 
 # Experience Section
 # experience_title: Experience
