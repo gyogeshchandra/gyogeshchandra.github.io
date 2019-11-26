@@ -22,8 +22,16 @@ instagram_username: yogesh.live_life
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Yogesh Chandra and I work as software engineer II in Akamai Technologies. I have a great experience in making software and web apps.
-  I am most skilled in: <mark>Python</mark> and <mark>Perl</mark>
+  Hi, my name is Yogesh Chandra and I work as software engineer II with Akamai Technologies. I have a great experience in making software and web apps.
+
+  <mark>SKILLS : </mark><br/>
+      • Expertise in Python and Perl <br>
+      • Database knowledge in Mysql, Oracle and PostgreSQL and Cassandra <br>
+      • Good Understanding of Flask and Django <br>
+      • Good Understanding of Javascript and ReactJS <br>
+      • Could work with Docker and Ansible <br>
+      • Good understanding of tools like Git, Jira, Jenkins, Apache server, UWSGI <br>
+      • Operating systems - Linux, Unix, Macos and Windows <br>
 
 # Experience Section
 # experience_title: Experience
@@ -35,10 +43,9 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
    - Gaming
    - Playing Piano
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+   - Trekking
 
 # Footer
 footer_show_references: true
