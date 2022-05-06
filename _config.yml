@@ -4,7 +4,7 @@ repository: gyogeshchandra/gyogeshchandra.github.io
 
 # Personal info
 name: G Yogesh Chandra
-title: Software Engineer II
+title: Senior Software Engineer - Lead
 email: er.yogeshchandra@gmail.com
 website: https://gyogeshchandra.github.io
 
@@ -22,14 +22,14 @@ instagram_username: yogesh.live_life
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Yogesh Chandra and I work as software engineer II with Akamai Technologies. I have a great experience in making software and web apps.
+  Hi, my name is Yogesh Chandra and I work as senior software engineer Lead with Walmart Global Tech. I have a great experience in making software and web apps.
 
   <mark>SKILLS : </mark><br/>
-      • Expertise in Python and Perl <br>
+      • Expertise in Python, Perl and GoLang <br>
       • Database knowledge in Mysql, Oracle, PostgreSQL and Cassandra <br>
-      • Good Understanding of Flask and Django <br>
-      • Good Understanding of Javascript and ReactJS <br>
-      • Able to work with Docker and Ansible <br>
+      • Good Understanding of Flask, Django and FastAPI <br>
+      • Good Understanding of Javascript, ReactJS, HTML and CSS <br>
+      • Able to work with Docker, Ansible, Ansible Tower and Jenkins<br>
       • Good understanding of tools like Git, Jira, Jenkins, Apache server, UWSGI <br>
       • Operating systems - Linux, Unix, Macos and Windows <br>
 
