@@ -1,8 +1,20 @@
 - layout: left
+  company: Walmart Global Tech 
+  link: https://one.walmart.com/content/globaltechindia/en_in.html
+  job_title: Senior Software Engineer (IN4)
+  dates: Nov 2021 - Present
+  quote: >
+    Walmart has a long history of transforming retail and using technology to deliver innovations that improve how the world shops and empower our 2.2 million associates. It began with Sam Walton and continues today with Global Tech associates working together to power Walmart and lead the next retail disruption. We’re a high-performing, primarily virtual workforce that is human-led and tech-empowered. Our world-class software engineers, data scientists and engineers, cybersecurity professionals, product managers and business service professionals work with top talent on cutting-edge technologies that create unique and innovative experiences for our associates, customers and members across Walmart, Sam’s Club and Walmart International. At Walmart Global Tech, one line of code or bold idea can make life easier for hundreds of millions of people – talk about epic impact at a global scale.
+  description: | # this will include new lines to allow paragraphs
+    My role at Walmart Global Tech was developing automation tools and products to make DDI realted taks easy. Being a part of DDI team, we develop applications for the infrastucture/network teams.
+    Currently, we are building a web based application for deploying several DNS servers to manage DNS queried on stores. 
+    The application is built in python using flask framework and the frontend is written using React JS.
+   
+- layout: left
   company: Akamai Technologies 
   link: www.akamai.com
   job_title: Software Engineer II
-  dates: Oct 2017 - Present
+  dates: Oct 2017 - Nov 2021
   quote: >
     Akamai Technologies is an American content delivery network (CDN), cybersecurity, and cloud service provider headquartered in Cambridge, Massachusetts, in the United States. Akamai's content delivery network is one of the world's largest distributed computing platforms, responsible for serving between 15% and 30% of all web traffic. It is the edge
   description: | # this will include new lines to allow paragraphs
