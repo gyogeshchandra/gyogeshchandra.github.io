@@ -2,7 +2,17 @@
   company: Walmart Global Tech 
   link: www.one.walmart.com
   job_title: Senior Software Engineer - Lead
-  dates: Nov 2021 - Present
+  dates: Nov 2024 - Present
+  quote: >
+    As a Staff Software Engineer in Walmart’s DDI team, I lead the end-to-end design, development, and deployment of enterprise-grade digital solutions that power Walmart’s global retail ecosystem. I’m responsible for delivering highly scalable, reliable, and performant systems that handle massive volumes of traffic and data, while mentoring engineers and ensuring best practices in both frontend and backend development.
+  description: | # this will include new lines to allow paragraphs
+    I’m responsible for leading the design, development, and delivery of scalable, high-performance web and backend applications. I drive technical strategy, architect microservices and cloud-native solutions, and ensure best practices in coding, testing, and deployment. I collaborate cross-functionally with product, UX, and data teams to deliver impactful features, while mentoring engineers and fostering a culture of quality, innovation, and continuous improvement across the team.
+
+- layout: left
+  company: Walmart Global Tech 
+  link: www.one.walmart.com
+  job_title: Senior Software Engineer - Lead
+  dates: Nov 2021 - Nov 2024
   quote: >
     Walmart has a long history of transforming retail and using technology to deliver innovations that improve how the world shops and empower our 2.2 million associates. It began with Sam Walton and continues today with Global Tech associates working together to power Walmart and lead the next retail disruption. We’re a high-performing, primarily virtual workforce that is human-led and tech-empowered. Our world-class software engineers, data scientists and engineers, cybersecurity professionals, product managers and business service professionals work with top talent on cutting-edge technologies that create unique and innovative experiences for our associates, customers and members across Walmart, Sam’s Club and Walmart International. At Walmart Global Tech, one line of code or bold idea can make life easier for hundreds of millions of people – talk about epic impact at a global scale.
   description: | # this will include new lines to allow paragraphs
