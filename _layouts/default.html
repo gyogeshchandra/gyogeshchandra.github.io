@@ -20,6 +20,10 @@
                 {%- include education.html -%}
             {%- endif -%}
 
+            {%- if site.data.certifications.size > 0 -%}
+                {%- include certifications.html -%}
+            {%- endif -%}
+
             {%- include more.html -%}
 
         </div>

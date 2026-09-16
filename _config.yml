@@ -4,8 +4,9 @@ repository: gyogeshchandra/gyogeshchandra.github.io
 
 # Personal info
 name: G Yogesh Chandra
-title: Staff Software Engineer - Lead
+title: Senior Manager – Network & DDI Automation
 email: er.yogeshchandra@gmail.com
+phone: +91-7276267888
 website: https://gyogeshchandra.github.io
 
 # Social demo in git
@@ -22,16 +23,17 @@ instagram_username: yogesh.live_life
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I am G Yogesh Chandra and I work as senior software engineer - Lead with Walmart Global Tech. I am a software developer with a great industry experience in building websites and web applications. I specialize in backend/fullstack development and have professional experience working with Python, Perl, Golang, Javascript and React JS. I also have experience working with docker, ansible and various databases.
+  Accomplished software engineering leader with experience architecting and scaling backend and full-stack platforms. I drive technical strategy, mentor high-performing teams, and deliver reliable, cost-efficient systems. My expertise includes cloud-native technologies, observability, network and DDI automation, and Generative AI solutions that improve developer productivity and system resilience.
 
-  <mark>SKILLS : </mark><br/>
-      • Expertise in Python, Perl and GoLang <br>
-      • Database knowledge in Mysql, Oracle, PostgreSQL and Cassandra <br>
-      • Good Understanding of Flask, Django and FastAPI <br>
-      • Good Understanding of Javascript, ReactJS, HTML and CSS <br>
-      • Able to work with Docker, Ansible, Ansible Tower and Jenkins<br>
-      • Good understanding of tools like Git, Jira, Jenkins, Apache server, UWSGI <br>
-      • Operating systems - Linux, Unix, Macos and Windows <br>
+  <mark>SKILLS</mark><br/>
+  • Python, Perl, and Go; Django, Flask, FastAPI, Django Ninja, and Catalyst<br/>
+  • React JS, MobX, HTML, CSS, JavaScript (ES6/ES7), REST APIs, and WebSockets<br/>
+  • PostgreSQL, MySQL, Oracle, Cassandra, Redis, NetBox, and OpenAPI<br/>
+  • Docker, Docker Compose, Kubernetes, Ansible, Jenkins, Concord, and Git<br/>
+  • Kafka, Prometheus, Grafana, Zabbix, Splunk, Elasticsearch, Logstash, Kibana, and Sentry<br/>
+  • Azure, AWS, GCP, Linux, Windows, Apache, Nginx, and uWSGI<br/>
+  • Generative AI: OpenAI APIs, Azure OpenAI, LangChain, RAG, Hugging Face, and Milvus<br/>
+  • Object-oriented programming, Agile methodologies, and NetDevOps practices
 
 # Experience Section
 # experience_title: Experience
@@ -39,13 +41,16 @@ about_content: | # this will include new lines to allow paragraphs
 # Education Section
 # educaton_title: Education
 
+# Certifications Section
+certifications_title: Certifications
+
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Playing Table Tennis
-   - Playing Piano
-   - Trekking
+  - Traveling
+  - Bike riding
+  - Playing Table Tennis
 
 # Footer
 footer_show_references: true

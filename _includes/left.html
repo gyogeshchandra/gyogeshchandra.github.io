@@ -7,6 +7,7 @@
     {%- endif -%}
     {%- if include.item.job_title -%}<p><b>{{ include.item.job_title }}</b></p>{%- endif -%}
     {%- if include.item.qualification -%}<p><b>{{ include.item.qualification }}</b></p>{%- endif -%}
+    {%- if include.item.issuer -%}<p><b>{{ include.item.issuer }}</b></p>{%- endif -%}
     {%- if include.item.dates -%}<p>{{ include.item.dates }}</p>{%- endif -%}
     {% for job in include.item.jobs %}
       <p><b>{{ job.title }}</b></p>

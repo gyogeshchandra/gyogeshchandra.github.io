@@ -1,0 +1,16 @@
+- layout: left
+  name: CDCA: Core DDI Configuration and Administration 8.4
+  issuer: Infoblox
+  description: |
+    Certification in core DDI configuration and administration.
+
+- layout: left
+  name: Generative AI Leader Certification
+  description: |
+    Certification in Generative AI leadership.
+
+- layout: left
+  name: Infoblox Champions – Silver
+  issuer: Infoblox
+  description: |
+    Silver-level recognition in the Infoblox Champions program.

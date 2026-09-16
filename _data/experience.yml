@@ -1,56 +1,55 @@
 - layout: left
-  company: Walmart Global Tech 
+  company: Walmart Global Tech
   link: www.one.walmart.com
-  job_title: Staff Software Engineer - Lead
-  dates: Nov 2024 - Present
-  quote: >
-     Walmart has a long history of transforming retail and using technology to deliver innovations that improve how the world shops and empower our 2.2 million associates. It began with Sam Walton and continues today with Global Tech associates working together to power Walmart and lead the next retail disruption. We’re a high-performing, primarily virtual workforce that is human-led and tech-empowered. Our world-class software engineers, data scientists and engineers, cybersecurity professionals, product managers and business service professionals work with top talent on cutting-edge technologies that create unique and innovative experiences for our associates, customers and members across Walmart, Sam’s Club and Walmart International. At Walmart Global Tech, one line of code or bold idea can make life easier for hundreds of millions of people – talk about epic impact at a global scale.
-  description: | # this will include new lines to allow paragraphs
-    I’m responsible for leading the design, development, and delivery of scalable, high-performance web and backend applications. I drive technical strategy, architect microservices and cloud-native solutions, and ensure best practices in coding, testing, and deployment. I collaborate cross-functionally with product, UX, and data teams to deliver impactful features, while mentoring engineers and fostering a culture of quality, innovation, and continuous improvement across the team.
+  job_title: Senior Manager – Network & DDI Automation
+  dates: Jan 2026 - Present
+  description: |
+    - Architected and led the Network Automation Platform (NAP), a Django-based workflow orchestration system using Celery, RabbitMQ, and Redis. Its vendor-agnostic plugin architecture supports Cisco NX-OS, Arista EOS, and Juniper platforms and reduced provisioning time by 60%.
+    - Designed an intent-based networking automation framework with infrastructure-as-code patterns, Django Ninja and FastAPI REST APIs, and NetBox integration for configuration management and compliance validation across Azure and GCP.
+    - Led DDI modernization by transforming DNS, DHCP, and IPAM into programmable cloud-native services. Integrated Infoblox and BIND automation workflows to achieve a 99.99% availability SLA.
+    - Developed OpenAI, LangChain, and RAG-powered network operations capabilities for intelligent change management, capacity planning, and automated root-cause analysis, reducing mean time to resolution by 40%.
+    - Built a real-time observability stack with Kafka, Prometheus, Grafana, ELK, and Splunk; engineered OS upgrade automation with automated health checks, backups, validation, and rollback, reducing upgrade windows by 70%.
+    - Lead global teams delivering network software, DDI services, and SRE practices while fostering a NetDevOps culture through mentorship, code reviews, and technical development programs.
 
 - layout: left
-  company: Walmart Global Tech 
+  company: Walmart Global Tech
   link: www.one.walmart.com
-  job_title: Senior Software Engineer
-  dates: Nov 2021 - Nov 2024
-  description: | # this will include new lines to allow paragraphs
-    My role at Walmart Global Tech was developing automation tools and products to make DDI realted taks easy. Being a part of DDI team, we develop applications for the infrastucture/network teams.
-    Currently, we are building a web based application for deploying several DNS servers to manage DNS queried on stores. 
-    The application is built in python using flask framework and the frontend is written using React JS.
-   
+  job_title: Staff Software Engineer – Engineering Manager
+  dates: Nov 2021 - Jan 2026
+  description: |
+    - Developed an OpenAI-powered internal developer assistant for DNS troubleshooting and root-cause analysis, reducing mean time to resolution by 25%.
+    - Developed the ATOM DNS Walker utility using Python, Flask, JavaScript, React JS, and Docker, with enhancements for bulk lookups, DNS Health Map, single sign-on, and GenAI compliance validation.
+    - Architected Walmart Open Name Server (WONS), a scalable DNS solution built with Python, Go, Ansible, FastAPI, Kubernetes, and BIND9; later added GenAI log summarization and anomaly detection.
+    - Built Python, FastAPI, and React JS services with PostgreSQL schemas, OpenAPI specifications, inventory discovery, and scheduling capabilities.
+    - Deployed Zabbix for proactive DNS and network-health monitoring, centralized monitoring for distributed DDI appliances on Kubernetes, and ServiceNow-integrated alerting backed by GCP Cloud PostgreSQL.
+    - Developed DNS Poller and DNS SLI/SLO metric collection using SNMP, containers, and GCP/Azure deployments for DNS and network performance evaluation.
+
 - layout: left
-  company: Akamai Technologies 
+  company: Akamai Technologies
   link: www.akamai.com
   job_title: Software Engineer II
   dates: Oct 2017 - Nov 2021
-  quote: >
-    Akamai Technologies is an American content delivery network (CDN), cybersecurity, and cloud service provider headquartered in Cambridge, Massachusetts, in the United States. Akamai's content delivery network is one of the world's largest distributed computing platforms, responsible for serving between 15% and 30% of all web traffic. It is the edge
-  description: | # this will include new lines to allow paragraphs
-    My role at Akamai is basically of a Full Stack Developer. Being a part of network-systems team, we develop applications for the infrastucture/network teams.
-    Currently, we are building a web based application for network engineers to configure router and swicthes deployed at Akamai's Network. 
-    The application is built in python using flask framework and the frontend is written using React JS.
-    Previous to network-system teams, I was a part of Hardware Performance team where my prime responsibility was of data analysis of huge collection of hardware related data.
-
+  description: |
+    - Worked as a Full Stack Developer on Python and Flask web applications with React JS front ends for configuring routers and switches across Akamai's network.
+    - Analyzed large hardware-related datasets as part of the Hardware Performance team.
+    - Improved code quality, scalability, and application-server environments while collaborating with global engineering teams.
 
 - layout: left
   company: IPsoft Inc
   link: www.ipsoft.com
-  job_title: Monitoring Dev Engineer
+  job_title: Monitoring Development Engineer
   dates: Jan 2017 - Oct 2017
-  quote: >
-    IPsoft is a disruptive technology company, pioneering innovation in the development and delivery of autonomic and cognitive technologies. From our inception, our founders recognized that automation through digital labor will shape the future of IT and business operations. Inspired by the great minds of the past, we relish the challenge of making what others believe impossible a reality.
-  description: | # this will include new lines to allow paragraphs
-    My role at IPsoft was to develop features for their product called IPCenter which is an autonomic IT management platform. At IPsoft I was a part of Monitoring development Team where I was responsible for developing checks for various IPsoft's client to manager their infracture.
-    The checks were developed in Python and Perl and had interaction with AWS services.
-
+  description: |
+    - Developed monitoring solutions and IPCenter features for an autonomic IT management platform.
+    - Created client infrastructure checks using Python and Perl with AWS service integrations.
+    - Tested, debugged, automated, and optimized monitoring workflows to improve reliability and operational efficiency.
 
 - layout: left
   company: Cybage Software Pvt. Ltd
   link: www.cybage.com
   job_title: Software Engineer
-  dates: July 2013 - Jan 2017
-  quote: >
-   Cybage Software is a technology consulting organization specializing in outsourced product engineering services. As a leader in the technology and product engineering space, Cybage works with some of the world's best Independent Software Vendors (ISVs).
-  description: | # this will include new lines to allow paragraphs
-    Cybage is a service domain organization and I got an opportunity to work with Athena Health as my client. I was a part of few teams under the same client and worked on technologies like Python and Perl.
-    At Cybage I also contributed to the frontend development which was mostly in catalyst using javascript.
+  dates: Aug 2013 - Jan 2017
+  description: |
+    - Built software solutions for Athena Health using Python and Perl across multiple teams.
+    - Contributed to front-end development with JavaScript and the Catalyst framework.
+    - Delivered applications from inception through troubleshooting and timely resolution of software issues.
